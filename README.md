@@ -56,7 +56,7 @@ The dataset used in this project was compiled from publicly available data sourc
 
 ## 📫 Contact
 
-For feedback, questions, or collaboration opportunities:
+For feedback, questions:
 
 - 📧 Email: [ruheel.ritti@gmail.com](mailto:ruheel.ritti@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/ruheel-data-analyst](https://www.linkedin.com/in/ruheel-data-analyst)
