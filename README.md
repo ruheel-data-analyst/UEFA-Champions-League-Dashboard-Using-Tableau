@@ -48,7 +48,8 @@ The dashboard includes the following key visualizations:
 
 ---
 
-https://github.com/ruheel-data-analyst/UEFA-Champions-League-Dashboard-Using-Tableau/blob/main/UEFA%20Champions%20League%20Image.png
+![UEFA Champions League Dashboard Screenshot](https://github.com/ruheel-data-analyst/UEFA-Champions-League-Dashboard-Using-Tableau/blob/main/UEFA%20Champions%20League%20Image.png)
+
 
 ---
 
