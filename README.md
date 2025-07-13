@@ -44,7 +44,7 @@ The dashboard includes the following key visualizations:
 
 ## 📷 Dashboard Preview
 
-👉 [Click here to view the full interactive dashboard](https://public.tableau.com/app/profile/ruheelahamed.ritti/viz/Football_17524178322100/Dashboard1?publish=yes)
+👉 [Click here to view the full interactive dashboard](https://public.tableau.com/views/UEFAChampionsLeague_17524352170340/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
